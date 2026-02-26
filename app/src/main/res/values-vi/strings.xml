@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">FancyScreen</string>
+
+    <string name="app_name">Màn Hình Đẹp</string>
 
     <string name="email_label">Địa chỉ email:</string>
     <string name="extension_label">Máy lẻ:</string>
@@ -8,4 +10,3 @@
     <string name="direct_reports_label">Báo cáo trực tiếp:</string>
 
 </resources>
-
